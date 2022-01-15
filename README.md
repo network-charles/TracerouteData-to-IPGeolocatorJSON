@@ -1,8 +1,8 @@
 # Traceroute-Data-to-IP-Geolocation-Data
 
-This scipts picks each IPv4 address in the .txt file containing several Traceroute data captured from Google.com
+This scripts picks each IPv4 address in the .txt file containing several Traceroute data captured from Google.com
 
-Next, it makes an API call to an IP Geo-locatio API (https://ipgeolocation.io/) to get the Geo-location of the Public Address.
+Next, it makes an API call to an IP Geo-location API (https://ipgeolocation.io/) to get the Geo-location of the Public Address.
 
 Lastly, these captured API calls are saved into a new file.
 

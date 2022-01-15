@@ -7,3 +7,6 @@ Next, it makes an API call to an IP Geo-locatio API (https://ipgeolocation.io/) 
 Lastly, these captured API calls are saved into a new file.
 
 I will appreciate it if someone can write a script that converts each API call into an excel spreadsheet. All API call should be saved inside one excel spreadsheet, not several spreadsheets.
+
+
+NB: To learn how to make periodic traceroute to several domain names and then capture the data into a text file, see https://github.com/network-charles/Periodic-Traceroute

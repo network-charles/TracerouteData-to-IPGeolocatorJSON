@@ -10,3 +10,7 @@ I will appreciate it if someone can write a script that converts each API call i
 
 
 NB: To learn how to make periodic traceroute to several domain names and then capture the data into a text file, see https://github.com/network-charles/Periodic-Traceroute
+
+Edited 31-January-2022
+
+- Google.com Traceroute data was deleted to maintain ISP information gathered during the measurement.

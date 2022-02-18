@@ -14,3 +14,4 @@ NB: To learn how to make periodic traceroute to several domain names and then ca
 Edited 31-January-2022
 
 - Google.com Traceroute data was deleted to maintain ISP information gathered during the measurement.
+- A Twitter user fixed the complaint made in Line 9 of this read me https://github.com/ovilori/network-python/blob/main/ipgeolocation.py
